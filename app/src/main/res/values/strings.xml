@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Countries You Visited</string>
+    <string name="title_activity_maps">Countries You Visited</string>
+    <string name="title_activity_logo_application">LogoApplication</string>
+
+    <!--  Hints add-->
+    <string name="hint_date">mm-yyyy</string>
+
+
+
+
+</resources>

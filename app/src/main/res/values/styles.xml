@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Light">
+        <item name="android:windowNoTitle">true</item>
+       <item name="android:panelFullBackground">@android:color/darker_gray</item>
+    </style>
+
+
+
+
+</resources>

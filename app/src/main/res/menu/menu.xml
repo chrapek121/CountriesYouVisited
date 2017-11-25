@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/background_black">
+
+
+
+
+    <item android:id="@+id/menu_add"
+        android:icon="@mipmap/menu_list_countries"
+        android:title="Add"
+        />
+
+    <item android:id="@+id/menu_remove"
+        android:icon="@mipmap/menu_remove"
+        android:title="Remove"
+        />
+
+    <item android:id="@+id/menu_exit"
+        android:icon="@mipmap/menu_exit"
+        android:title="Exit"
+       />
+
+
+</menu>
